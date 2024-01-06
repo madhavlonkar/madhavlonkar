@@ -4,18 +4,25 @@
 
 <h1 align="center">Hi there! 👋 I'm Madhav Sandeep Lonkar</h1>
 
-<h3 align="center">B.E. in Computer Science & Engineering | Full Stack Developer</h3>
+<h3 align="center">A passionate Full stack web developer from India</h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
-### 🙋‍♂️ About Me
-- 👨‍🎓 Graduated from **Sinhgad Academy of Engineering, Pune** with a CGPA of **9.28 / 10.00**
+## 🙋‍♂️ About Me
 
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/madhavlonkar)
+- 🔭 **Skilled Developer:** Proficient in Java, Spring Boot, servlets, C++, C, HTML, JSP, and MySQL.
 
-- 📧 Email: madhavlonkar.sae.comp@gmail.com | 📱 Phone: +91-9370548600
+- 👨‍💻 **Passionate Ethical Hacker:** Actively engaged in ethical hacking and penetration testing, with a track record in hackathon participation.
+
+- 🌱 **Proven Problem Solver:** Contributed to three real-world software projects, showcasing strong problem-solving skills.
+
+- 💻 **Aspiring Software Developer:** Dedicated to continuous learning, aspiring to become a successful and innovative software developer.
+
+- 👩‍🎓 **Effective Leader and Team Player:** Demonstrated leadership in group projects, excelling in communication, teamwork, and adaptability.
+
+Feel free to explore my repositories and connect with me! 😊
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
@@ -24,23 +31,6 @@
 ### 💻 Skills:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Servlets](https://img.shields.io/badge/servlets-%23F05032.svg?style=for-the-badge) ![GIT](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![CICD](https://img.shields.io/badge/cicd-%23F05032.svg?style=for-the-badge) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Penetration Testing](https://img.shields.io/badge/penetration%20testing-%23150458.svg?style=for-the-badge) ![JSP](https://img.shields.io/badge/JSP-%230175C2.svg?style=for-the-badge) ![Leadership](https://img.shields.io/badge/leadership-%23150458.svg?style=for-the-badge) ![Teamwork](https://img.shields.io/badge/teamwork-%23323330.svg?style=for-the-badge) ![Communication](https://img.shields.io/badge/communication-%23F7DF1E.svg?style=for-the-badge) ![Version Control](https://img.shields.io/badge/version%20control-%23323330.svg?style=for-the-badge) ![Debugging](https://img.shields.io/badge/debugging-%23ED8B00.svg?style=for-the-badge) ![J2EE](https://img.shields.io/badge/J2EE-%236DB33F.svg?style=for-the-badge) ![Data Structures and Algorithms](https://img.shields.io/badge/data%20structures%20and%20algorithms-%23F05032.svg?style=for-the-badge) ![Problem Solving](https://img.shields.io/badge/problem%20solving-%23E34F26.svg?style=for-the-badge) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
-</p>
-
-### 🎓 Education
-- **Sinhgad Academy of Engineering, Pune**
-  - B.E. in Computer Science & Engineering (2020 - 2024)
-  - CGPA: 9.28 / 10.00
-
-- **Kondiram Sadashiv Kshirsagar Bhigwan, Indapur**
-  - 12th (2020)
-  - Percentage: 77.08 / 100.00
-
-- **Vidya Pratishtan's Someshwar English Medium School, Baramati**
-  - 10th (2018)
-  - SSC | Percentage: 91.60 / 100.00
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
@@ -84,9 +74,13 @@
 - Developed a comprehensive antivirus application with robust parental control functionalities.
 - Implemented advanced cache cleaners and a powerful antivirus scan engine.
 
+**Additional Projects:**
+- Explore more of my projects on [GitHub](https://github.com/madhavlonkar?tab=repositories).
+
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
+
 
 ### 📚 Assessments/Certifications
 - **SPPU Affiliated Certificate in C Programming**
@@ -122,9 +116,10 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
-### 🌐 Web Links
-- [GitHub](https://github.com/madhavlonkar)
+<h4> 📬 Reach me out </h4>
+<p align="left">
+<a href="https://www.linkedin.com/in/madhavlonkar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://www.instagram.com/maddy_8600?igshid=MTg1cGhvNHYwcHV2cg=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
 
-Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/madhavlonkar) or via email at madhavlonkar.sae.comp@gmail.com. Looking forward to new opportunities and collaborations!
 
-<!-- Proudly created with GPT-3 -->
