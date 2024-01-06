@@ -120,6 +120,7 @@ Feel free to explore my repositories and connect with me! 😊
 <p align="left">
 <a href="https://www.linkedin.com/in/madhavlonkar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/maddy_8600?igshid=MTg1cGhvNHYwcHV2cg=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href="mailto:madhavlonkar.sae.comp@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 </p>
 
 
