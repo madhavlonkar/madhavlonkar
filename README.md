@@ -116,6 +116,12 @@ Feel free to explore my repositories and connect with me! 😊
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=madhavlonkar&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+</p>
+
 <h4> 📬 Reach me out </h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/madhavlonkar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
