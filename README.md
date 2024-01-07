@@ -64,7 +64,6 @@ Feel free to explore my repositories and connect with me! 😊
 
 <div align="center">
 <p><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavlonkar&" alt="madhavlonkar" /></p>
-<p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavlonkar&show_icons=true&locale=en&layout=compact" alt="madhavlonkar" /></p>
 </div>
 
 <p align="left">
