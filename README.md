@@ -49,74 +49,23 @@ Feel free to explore my repositories and connect with me! 😊
 </p>
 
 ### 🚀 Projects
-**Human Resource Management System**
-- Duration: 01 Feb, 2023 - 11 May, 2023
-- Mentor: Sham Gaikwad | Team Size: 3
-- [GitHub Link](https://github.com/madhavlonkar/HRMSZPLUS)
-- Developed and implemented an integrated HRMS, enhancing user interaction and simplifying processes.
-- Leveraged Spring Boot for robust APIs to streamline HR processes.
+- Explore my projects on [GitHub](https://github.com/madhavlonkar?tab=repositories).
 
-**Payroll Management System**
-- Duration: 01 Aug, 2022 - 30 Nov, 2022
-- Mentor: Sham Gaikwad | Team Size: 3
-- [GitHub Link](https://github.com/madhavlonkar/PayrollManagementSystem)
-- Developed a comprehensive system automating employee salary calculations, tax deductions, and benefits.
-- Implemented secure login with encrypted passwords and two-factor authentication (2FA).
-
-**Market Scanner**
-- Duration: 18 Aug, 2022 - 17 Sep, 2022
-- Mentor: Sham Gaikwad | Team Size: 1
-- [GitHub Link](https://github.com/madhavlonkar/MarketScanner)
-- Developed an automated Market Scanner system for scanning product barcodes and creating a digital shopping list.
-
-**Zplus Total Security Antivirus**
-- Team Size: 5
-- Developed a comprehensive antivirus application with robust parental control functionalities.
-- Implemented advanced cache cleaners and a powerful antivirus scan engine.
-
-**Additional Projects:**
-- Explore more of my projects on [GitHub](https://github.com/madhavlonkar?tab=repositories).
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
-</p>
-
-
-### 📚 Assessments/Certifications
-- **SPPU Affiliated Certificate in C Programming**
-  - Aggregate: 86.00 / 100.00
-
-- **SPPU Affiliated Certificate in C++ Programming**
-  - Aggregate: 85.00 / 100.00
-
-- **Red Team Training (INPT Workflow)**
-  - Aggregate: 70.00 / 100.00
-
-- **Java Basics - HackerRank**
-
-- **Persistent Martian Program**
-  - Engaged in the Persistent Martian Program, a specialized training initiative focused on Java.
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
-</p>
-
-### 🏆 Co-curricular Activities
-- Member of Cypher Cell (Coding Club)
-- Runner-Up in Hackathon (College Level)
-- Class Representative of T.E Comp (CR)
-
-### 🌐 Personal Interests/Hobbies
-- Hacking
-- Trekking
-- Music
-- Penetration Testing
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=madhavlonkar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
+<div align="center">
+<p><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavlonkar&" alt="madhavlonkar" /></p>
+<p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavlonkar&show_icons=true&locale=en&layout=compact" alt="madhavlonkar" /></p>
+</div>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
