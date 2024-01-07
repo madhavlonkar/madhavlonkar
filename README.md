@@ -51,13 +51,6 @@ Feel free to explore my repositories and connect with me! 😊
 ### 🚀 Projects
 - Explore my projects on [GitHub](https://github.com/madhavlonkar?tab=repositories).
 
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
-</p>
-
-[![](https://visitcount.itsvg.in/api?id=madhavlonkar&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
